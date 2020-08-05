@@ -17,6 +17,13 @@ public class AppTest
     {
         assertTrue( true );
     }
+    
+    @Test
+    public void testtingWorld()
+    {
+        assertTrue( true );
+    }
+
 
     @Test
     public void doSomething()
